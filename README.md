@@ -3,8 +3,11 @@
 
 
 使用方式：
+
 1.copy plugin文件夹中的三个文件到你自己的项目中。同时link系统库：libsqlite3.0.dylib
+
 2.在需要用到的controller中引入 YanInputStatic.h
+
 3.在调用的地方设置键盘：
 
 ```
