@@ -20,7 +20,9 @@ UIView *keyboard = [YanInputStatic  getYanInputViewwithParentController:self and
 ```
 
 如果有不懂之处欢迎加我微信：mier963。或者邮箱：xinyu198736@gmail.com
+
 我的app《颜文字输入法》目前有60W用户（2015年7月），欢迎加入此插件的第三方app联系互推，或者定制自己的输入法。
 
 界面截图：（切换按钮不是输入法自带的部分）
+
 <img src="http://htmljs.b0.upaiyun.com/uploads/1436602169109-a0c04b4349025f89c850bff4ad2c6b02.png" width=400 style="width:300px;"/>
